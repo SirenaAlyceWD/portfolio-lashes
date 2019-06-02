@@ -1,0 +1,150 @@
+/*Global Settings*/
+
+
+/*
+font-family: 'Poiret One', cursive; *
+font-family: 'Montserrat', sans-serif;
+*/
+
+
+.left {
+	background-color: none;
+}
+
+.right {
+	background-color: #ff6f61;
+}
+
+.footer {
+	background-color: #a32857;
+	color: white;
+}
+
+.jumbotron {
+		border-radius: 0px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color:#f85c70;
+    text-decoration: none;
+}
+
+.fas, .fab {
+	color: #a32857;
+}
+
+.footer-text {
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.des {
+    font-family: 'Segoe UI','sans-serif';
+    font-style: italic;
+    color:white;
+}
+
+.price {
+    color: #D3D70D;
+}
+
+.container-fluid {
+    padding-left: 0px;
+}
+
+/*logo*/
+
+.sic-logo {
+    background-color: #ff6f61;
+    width: 100vw;
+    padding: none;
+}
+
+.navbar-brand-1 {
+    color:white;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 5px;
+}
+
+.navbar-brand {
+    color:white;
+    font-size: 100px;
+    font-family: 'Poiret One', cursive;
+}
+
+.header {
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+/*nav*/
+.dropdown-toggle, .submenuitem{
+    padding-left: 14px;
+    color: #a32857;
+}
+
+.mink, .faux-mink {
+    color: #a32857;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav {
+    padding-left: 10px;
+}
+
+
+/*right slider*/
+
+#right-slider .carousel-item-next.carousel-item-left,
+#right-slider .carousel-item-prev.carousel-item-right {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+#right-slider .carousel-item-next,
+#right-slider .active.carousel-item-right {
+    -webkit-transform: translate3d(0, 100%, 0);
+            transform: translate3d(0, 100% 0);
+}
+
+#right-slider .carousel-item-prev,
+#right-slider .active.carousel-item-left {
+-webkit-transform: translate3d(0,-100%, 0);
+        transform: translate3d(0,-100%, 0);
+}
+
+/*left slider*/
+
+#left-slider .carousel-item-next.carousel-item-left,
+#left-slider .carousel-item-prev.carousel-item-right {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+#left-slider .carousel-item-next,
+#left-slider .active.carousel-item-right {
+    -webkit-transform: translate3d(0, -100%, 0);
+            transform: translate3d(0, -100% 0);
+}
+
+#left-slider .carousel-item-prev,
+#left-slider .active.carousel-item-left {
+-webkit-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0);
+}
+
+/*images*/
+
+.dubai, .berlin, .london {
+    border: none;
+}
