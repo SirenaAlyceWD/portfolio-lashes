@@ -34,7 +34,7 @@ a:hover {
 }
 
 .fas, .fab {
-	color: #a32857;
+	color: #ff6f61;
 }
 
 .footer-text {
@@ -90,7 +90,7 @@ h2 {
 /*nav*/
 .dropdown-toggle, .submenuitem{
     padding-left: 14px;
-    color: #a32857;
+    color: #ff6f61;
 }
 
 .mink, .faux-mink {
@@ -100,6 +100,11 @@ h2 {
 
 .nav {
     padding-left: 10px;
+}
+
+
+nav {
+    font-size: 20px;
 }
 
 
