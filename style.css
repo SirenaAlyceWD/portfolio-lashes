@@ -175,8 +175,17 @@ nav {
     padding: 15px;
 }
     }
+.announcement {
+
+    height: 67%;
+  
+}
+.shop {
+    font-size: 15px;
+}
 }
 
+    
 /*right slider*/
 
 #right-slider .carousel-item-next.carousel-item-left,
