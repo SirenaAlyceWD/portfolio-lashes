@@ -23,6 +23,7 @@ font-family: 'Montserrat', sans-serif;
 
 .jumbotron {
 		border-radius: 0px;
+    width: 100vw;
 }
 
 a {
@@ -55,9 +56,6 @@ a:hover {
     color: #D3D70D;
 }
 
-.container-fluid {
-    padding-left: 0px;
-}
 
 /*logo*/
 
