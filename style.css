@@ -18,7 +18,7 @@ font-family: 'Montserrat', sans-serif;
 
 .footer {
 	background-color: #a32857;
-	color: #fff;
+	color: white;
     width: 100vw;
     margin: 0px;
     padding-top:10px;
@@ -29,7 +29,6 @@ font-family: 'Montserrat', sans-serif;
 
 .footer-content {
     padding-left: 15px;
-	    font-family: 'Montserrat', sans-serif;
 }
 
 .container-fluid {
@@ -45,9 +44,28 @@ font-family: 'Montserrat', sans-serif;
     width: 100vw;
 }
 
+.announcement {
+    margin-bottom: 0px;
+    height: 50%;
+    background-color: #a32857;
+	color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.shop {
+    background-color: #D3D70D;
+    font-family: 'Montserrat', sans-serif;
+    border-color: #D3D70D;
+}
+
+.shop:hover {
+    background-color: #fff;
+    color:#a32857;
+    border-color: #D3D70D;
+}
 a {
 	text-decoration: none;
-    color:#fff;
+    color:white;
     font-family: 'Montserrat', sans-serif;
 }
 
