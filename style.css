@@ -6,12 +6,6 @@ font-family: 'Poiret One', cursive; *
 font-family: 'Montserrat', sans-serif;
 */
 
-body {
-    width: 100vw;
-    height: 100vh;
-    margin: 0px;
-    padding:0px;
-}
 .left {
 	background-color: none;
 }
@@ -26,9 +20,11 @@ body {
 	color: white;
     width: 100vw;
     margin: 0px;
-    padding:0px;
+    padding:8px;
     overflow: hidden;
 }
+
+
 
 .container-fluid {
     width: 100%;
@@ -123,6 +119,20 @@ nav {
     font-size: 15px;
 }
 
+@media (max-width:600px) 
+{
+    nav {
+        font-size:12px;
+    }
+    .nav {
+    padding-left: 5px;
+}
+    .fas, .fab {
+	color: #ff6f61;
+    font-size: 12px;
+    padding: 10px;
+}
+}
 
 /*right slider*/
 
