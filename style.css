@@ -46,7 +46,7 @@ font-family: 'Montserrat', sans-serif;
 
 .announcement {
     margin-bottom: 0px;
-    height: 50%;
+    height: 100%;
     background-color: #a32857;
 	color: white;
     font-family: 'Montserrat', sans-serif;
@@ -175,6 +175,7 @@ nav {
     padding: 15px;
 }
     }
+/*
 .announcement {
 
     height: 67%;
@@ -183,7 +184,9 @@ nav {
 .shop {
     font-size: 15px;
 }
+*/
 }
+
 
     
 /*right slider*/
