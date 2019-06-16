@@ -25,10 +25,8 @@ body {
 	background-color: #a32857;
 	color: white;
     width: 100vw;
-    height: 100vh;
     margin: 0px;
     padding:0px;
-    overflow: hidden;
 }
 
 .container-fluid {
