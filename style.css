@@ -18,7 +18,10 @@ font-family: 'Montserrat', sans-serif;
 .footer {
 	background-color: #a32857;
 	color: white;
-    width: 100vw;
+    width: 100%;
+    left: 0;
+    right:0;
+    position:absolute;
 }
 
 .jumbotron {
