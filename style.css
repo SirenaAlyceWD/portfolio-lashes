@@ -24,6 +24,13 @@ font-family: 'Montserrat', sans-serif;
     position:absolute;
 }
 
+.container-fluid {
+    width: 100%;
+    left: 0;
+    right:0;
+    position:absolute;
+    
+}
 .jumbotron {
 		border-radius: 0px;
     width: 100vw;
